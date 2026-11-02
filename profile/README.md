@@ -29,7 +29,7 @@ Pełne portfolio, w tym strony internetowe i serwisy sprzedaży mieszkań: [it.u
 
 ### Społeczność
 
-Dwa razy byliśmy gospodarzem meetupu [WrocNet](https://www.meetup.com/pl-PL/wrocnet/) - [#164](https://www.meetup.com/pl-PL/wrocnet/events/312196572/) i [#166](https://www.meetup.com/pl-PL/wrocnet/events/313709056/). Przyjmujemy studentów do zespołu sieciowego i programistycznego.
+Dwa razy byliśmy gospodarzem meetupu [WrocNet](https://wrocnet.org) - [#164](https://www.meetup.com/pl-PL/wrocnet/events/312196572/) i [#166](https://www.meetup.com/pl-PL/wrocnet/events/313709056/). Przyjmujemy studentów do zespołu sieciowego i programistycznego.
 
 ### Kontakt
 
